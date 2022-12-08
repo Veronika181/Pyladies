@@ -1,0 +1,5 @@
+a	b	a and b	a or b	not a
+True	True			
+False	True			
+True	False			
+False	False			 
